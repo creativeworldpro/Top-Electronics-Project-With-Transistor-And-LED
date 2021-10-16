@@ -5,10 +5,13 @@ $2 for 1-4 Layer PCBs.
 Get SMT Coupons - https://jlcpcb.com/RTA
 
 
+
 In this video, we are going to show you making a simple electronics project using transistor and LED light. It is a very simple and cheap electronics project that you can make at home. To decorate your home and office, you can use this circuit.
 
 
+
 To make this circuit, we might need some electronics component. Those component list have to been given below.
+
 
 
 Component List :
@@ -21,11 +24,14 @@ Component List :
 
 
 
+
 Transistor Pinout – As a like other transistor, this transistor also have 3 legs and this 3 legs have different names. If we count it’s leg from left side, then 1st leg Emitter, 2nd leg Base and 3rd leg Collector.
 
 
 
+
 Circuit Connection – 
+
 
 To make this circuit 1st we connect transistor “Emitter” leg with a copper wire. Then we connect capacitor with the circuit. We connect capacitor negative leg with “Base” and capacitor positive leg with “Collector” leg of other transistor.
 
